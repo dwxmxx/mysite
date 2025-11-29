@@ -1,0 +1,6 @@
+name = "mysite"
+main = "worker.js"
+compatibility_date = "2023-10-10"
+
+[site]
+bucket = "./"
